@@ -10,5 +10,8 @@ console.log(fruits);
 // console.log(removedFruit);  // Output: "orange"
 // console.log(fruits);  // Output: ["apple", "banana"]
 
+console.log("Test Git Add in Array Method")
+
+
 
 
